@@ -28,7 +28,7 @@ A relational database for an amusement park, designed and implemented in MySQL. 
 
 ## ER Diagram
 The Entity-Relationship (ER) diagram illustrating the database structure and relationships:
-![ER Diagram](er-diagram)
+![ER Diagram](er-diagram.png)
 
 ## Files
 - `amusement_park.sql`: full MySQL dump (table structure and sample data)
