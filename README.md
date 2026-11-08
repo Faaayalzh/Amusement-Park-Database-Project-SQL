@@ -27,7 +27,8 @@ A relational database for an amusement park, designed and implemented in MySQL. 
 `visitorsgame` is the junction table for the many-to-many relationship between visitors and games.
 
 ## ER Diagram
-*[Add an image of the ER diagram here, e.g. `![ER Diagram](er-diagram.png)`]*
+The Entity-Relationship (ER) diagram illustrating the database structure and relationships:
+![ER Diagram](er-diagram.png)
 
 ## Files
 - `amusement_park.sql`: full MySQL dump (table structure and sample data)
